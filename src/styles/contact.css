@@ -1,0 +1,52 @@
+.red-box {
+    background-color: rgb(248, 248, 248);
+    color: rgb(6, 6, 6);
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    margin: 0 auto;
+    width: 50%;
+  }
+  
+  .contact-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .contact-content {
+    text-align: center;
+    margin-top: 1cm; 
+  }
+  
+  .contact-section {
+    flex: 1;
+  }
+  
+  .contact-image-section {
+    text-align: left;
+  }
+  
+  .contact-text-section {
+    text-align: center;
+    margin-top: 0.5cm; 
+  }
+  
+  .contact-text {
+    width: calc(100% - 1cm);
+  }
+  
+  .about-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1cm; 
+  }
+  
+  .contact-image {
+    width: 500px;
+    height: 200px;
+    margin-right: 1cm;
+  }
+  

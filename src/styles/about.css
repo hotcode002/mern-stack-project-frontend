@@ -1,0 +1,22 @@
+.about-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .about-content {
+    display: flex;
+    max-width: 800px;
+  }
+  
+  .about-image {
+    width: 50%;
+    height: auto;
+    margin-right: 20px;
+  }
+  
+  .about-text {
+    width: 50%;
+    margin-top: 0.5cm; 
+  }

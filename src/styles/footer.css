@@ -1,0 +1,21 @@
+
+.footer {
+    background: #f64b4b;
+    padding: 50px 0;
+    color: #fff;
+    text-align: center;
+  }
+  
+  .copyright {
+    margin: 0 0 15px;
+  }
+  
+  .socials a:hover {
+    background: #f53333;
+  }
+  
+  .block {
+    padding: 70px 0;
+    border-bottom: 1px solid #e6e6e6;
+  }
+  
